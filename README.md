@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-My name is Arvind Nedumaran! I've been messing with Python since 2008, Django since 2013. Currently building [Mailage, Inc.](https://getmailage.com).
+My name is Arvind Nedumaran! I've been messing with Python since 2008, Django since 2013. I work as a full stack developer at [Volantio](https://www.volantio.com/). 
 
-I occasionally write [here](https://ey.posthaven.com). 
+Find more about me and read my ramblings [at](https://arv.dev). 
 
 Contact me - arvind at hey dot com. 
-
